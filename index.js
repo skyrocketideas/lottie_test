@@ -1,7 +1,5 @@
 "use strict";
 
-// import Animations from "./datajson.js";
-
 window.addEventListener("DOMContentLoaded", start);
 
 const animation = bodymovin.loadAnimation({
